@@ -2,10 +2,10 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: mybluemix.net
-  name: Z2C
-  host: Z2C
+  domain: w3ibm.mybluemix.net
+  name: Z2C-cosulliv
+  host: Z2C-cosulliv
   disk_quota: 1024M
   services:
-    - Speech to Text-xx
-    - Text to Speech-xx
+    - Speech to Text-ww
+    - Text to Speech-ua
